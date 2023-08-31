@@ -1,0 +1,83 @@
+
+/* style for all pages */
+
+h1 {
+    background-color: rgb(255, 153, 0);
+    color: black;
+    font-family: "Lucida Console", monospace;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+/* style for index */
+
+.recipes-list {
+    font-family: "Lucida Console", monospace;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.recipes-list .carbonara {
+    background-color: rgb(204, 83, 83);
+    color: black;
+}
+
+.recipes-list .hamburger {
+    background-color: rgb(237, 241, 0);
+    color: black;
+}
+
+.recipes-list .pesto {
+    background-color: rgb(91, 173, 14);
+    color: black;
+}
+
+/* style for recipe pages */
+
+h2 {
+    background-color: blanchedalmond;
+    color: black;
+    font-family: "Lucida Console", monospace;
+    text-align: center;
+    font-size: 40px;
+}
+
+.ingredients {
+    background-color: aquamarine;
+    color: black;
+    font-family: "Lucida Console", monospace;
+    text-align: center;
+    font-size: 30px;
+}
+
+.steps {
+    background-color: cornflowerblue;
+    color: black;
+    font-family: "Lucida Console", monospace;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    color: black;
+    font-family: "Lucida Console", monospace;
+    text-align: left;
+    font-size: 20px;    
+}
+
+img {
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    color: black;
+    font-family: "Lucida Console", monospace;
+    text-align: left;
+    font-size: 20px;    
+}
